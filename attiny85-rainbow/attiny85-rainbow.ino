@@ -30,7 +30,7 @@ const float colormovement = (float)360 / (float)LEDS;
 uint16_t startingcolor = 0;
 
 // brightness (0..31).
-const uint8_t brightness = 31;
+const uint8_t brightness = 8;
 
 
 // This function shows up in sp many rainbow samples that 
